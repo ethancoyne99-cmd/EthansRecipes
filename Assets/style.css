@@ -1,0 +1,10 @@
+html{
+    scroll-behavior: smooth;
+    background-color: aquamarine;
+    font: Helvetica;
+    margin: 200;
+    padding: 20;
+    border: 20px solid black;
+    box-sizing: border-box;
+
+}
